@@ -1,0 +1,6 @@
+{
+  "name": "EcoDerm AI",
+  "description": "Photo-based skin screening with live environmental factors, risk percentage, and dermatologist recommendations.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

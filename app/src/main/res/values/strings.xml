@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">EcoDerm AI</string>
+    <string name="tagline">Environmental Skin Health Intelligence</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_scan">Scan</string>
+    <string name="nav_history">History</string>
+    <string name="nav_progress">Progress</string>
+    <string name="start_skin_scan">Start Skin Scan</string>
+    <string name="view_scan_history">View Scan History</string>
+    <string name="environmental_factors_title">Live Environmental Skin Factors</string>
+    <string name="uv_index">UV Index</string>
+    <string name="air_quality">Air Quality (AQI)</string>
+    <string name="temperature">Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="analyze_skin">Analyze Skin Condition</string>
+    <string name="analyzing_with_gemini">Analyzing skin with environmental context…</string>
+    <string name="report_title">Dermatology Assessment</string>
+    <string name="risk_percentage">Risk Score</string>
+    <string name="likely_condition">Potential Condition</string>
+    <string name="severity_stage">Severity Stage</string>
+    <string name="ai_confidence">AI Confidence</string>
+    <string name="environmental_impact">Environmental Impact</string>
+    <string name="likely_causes">Likely Contributing Causes</string>
+    <string name="care_advice">Recommended Care Guidance</string>
+    <string name="consult_dermatologist">Consult a Dermatologist</string>
+    <string name="find_nearby_clinics">Find Nearby Dermatologists</string>
+    <string name="listen_report">Read Aloud</string>
+    <string name="stop_listening">Stop Audio</string>
+    <string name="download_report">Download PDF Report</string>
+    <string name="delete_scan">Delete</string>
+    <string name="no_scans_yet">No skin scans yet</string>
+    <string name="no_scans_subtitle">Take your first scan to analyze your skin alongside live weather & air conditions.</string>
+    <string name="disclaimer">Disclaimer: EcoDerm AI is an informational screening tool powered by Gemini AI and environmental factors. It does not provide medical diagnoses. Always seek professional advice from a licensed dermatologist or medical doctor for medical concerns.</string>
+</resources>
